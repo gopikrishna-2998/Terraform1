@@ -1,0 +1,3 @@
+variable "enivornment" {
+    default = "prod"
+}
